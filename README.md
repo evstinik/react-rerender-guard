@@ -6,7 +6,7 @@
 
 Performance tool that warns about many re-renders in short time.
 
-![React Rerender Guard Demo](https://raw.githubusercontent.com/evstinik/three-inspector/main/docs/preview.webp)
+![React Rerender Guard Demo](https://raw.githubusercontent.com/evstinik/react-rerender-guard/main/docs/preview.webp)
 
 ## Features
 

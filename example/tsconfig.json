@@ -16,7 +16,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "paths": {
-      "three-inspector": ["../src"]
+      "react-rerender-guard": ["../src"]
     }
   },
   "include": ["src"],
