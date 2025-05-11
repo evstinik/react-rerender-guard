@@ -1,6 +1,6 @@
 {
   "name": "react-rerender-guard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Performance tool that warns about many re-renders in short time.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
