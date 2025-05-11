@@ -53,6 +53,8 @@ Parameters:
 
 ## Development
 
+Check explanation on how it works here: [./docs/how-it-works.md](./docs/how-it-works.md)
+
 ```bash
 # Install dependencies
 pnpm install
